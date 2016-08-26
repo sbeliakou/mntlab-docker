@@ -5,7 +5,9 @@ MTN.*NIX.10 Automated Environment Configuration Management
 
 Home Task
 ---
+
 Using base docker image ***sbeliakou/centos:6.7***
+
 1. Wiht ```Dockerfiles```:
     - Create Docker Image of ```nginx``` ([web.Dockerfile](/web.Dockerfile))
     - Create Docker Image of ```Tomcat 7``` ([tomcat.Dockerfile](/tomcat.Dockerfile))
