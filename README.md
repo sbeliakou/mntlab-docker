@@ -16,9 +16,10 @@ Using base docker image ***sbeliakou/centos:6.7***
 2. With ```docker-compose```:
     - Create ```docker-compose.yml``` file to build containers from previos task
     - Run "environment" in daemon mode
-3. Create PR with description of reported task
-4. All needed changes (additional configuration/installations) on "Host" must be added into [Vagrantfile](/Vagrantfile)
-5. All needed resources must be placed into ```/resources``` folder
+3. Create own branch (epam login without @epam.com, in lowercase)
+4. Create PR with description of reported task
+5. All needed changes (additional configuration/installations) on "Host" must be added into [Vagrantfile](/Vagrantfile)
+6. All needed resources (if they are) must be placed into ```/resources``` folder
 
 Task Report Notes
 ---
