@@ -3,7 +3,7 @@ MTN.*NIX.10 Automated Environment Configuration Management
 
 ***Student***: Roman_Kalinyuk
 
-Home Task
+[Roman_Kalinyuk] (https://epa.ms/1Cqq0e) Docker Home Task
 ---
 
 Using base docker image ***sbeliakou/centos:6.7***
