@@ -1,7 +1,7 @@
 MTN.*NIX.10 Automated Environment Configuration Management
 ---
 
-***Student***: Name
+***Student***: Aliaksandr_Karavai
 
 Home Task
 ---
