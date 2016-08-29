@@ -1,7 +1,7 @@
 MTN.*NIX.10 Automated Environment Configuration Management
 ---
 
-***Student***: Name
+***Student***: Yaraslau Karotkin
 
 Home Task
 ---
