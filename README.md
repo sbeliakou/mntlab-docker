@@ -1,7 +1,7 @@
 MTN.*NIX.11 Automated Environment Configuration Management
 ---
 
-***Student***: Name
+***Student***: Siarhei Beliakou
 
 Home Task
 ---
